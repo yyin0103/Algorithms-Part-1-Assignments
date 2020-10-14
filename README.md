@@ -1,1 +1,1 @@
-# Algorithms-Part-2-Assignments
+# Algorithms-Part-1-Assignments
